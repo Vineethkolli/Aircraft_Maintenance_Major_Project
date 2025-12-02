@@ -126,14 +126,3 @@ streamlit run app.py
 
 **Conference:**  
 The Sixteenth International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025)
-
----
-
-## 👨‍💻 Contributors
-
-| Name | Role |
-|------|------|
-| **Kolli Vineeth** | Project Lead, ML & DL Developer |
-| **Kothoju Naresh** | Backend Developer, Integration |
-| **G. Gari Prabhash Reddy** | Data Analyst, Visualization |
-| **Dr. R. Naresh** | Research Supervisor |
